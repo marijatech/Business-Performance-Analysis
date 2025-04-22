@@ -1,3 +1,5 @@
+<!-- SEO Keywords: power bi project, data analyst portfolio, business intelligence dashboard, sql data analysis, dax project, power bi dashboard, executive dashboard, performance analysis, data storytelling project, data visualization portfolio, data analysis portfolio -->
+
 # 📊 Business Performance Analysis 
 
 This project presents business performance dashboard for a client created using Power BI and SQL.
