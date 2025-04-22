@@ -1,4 +1,4 @@
-# 📊 Business Performance Analysis Dashboard
+# 📊 Business Performance Analysis 
 
 This project presents business performance dashboard for a client created using Power BI and SQL.
 The dashboard offers actionable insights into key operational metrics across regions, departments, clients, and time periods.
