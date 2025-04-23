@@ -57,14 +57,14 @@ GROUP BY ClientName
 ORDER BY TotalRevenue DESC
 LIMIT 5;
 
--- Most common Project Types per Deparment
+-- Most common Project Types per Department
 
 SELECT Department, COUNT(*) AS TotalProjects
 FROM projects
 GROUP BY Department
 ORDER BY TotalProjects DESC;
 
--- Average Satisfaction by Deparment and Region
+-- Average Satisfaction by Department and Region
 
 SELECT Department, Region, ROUND(AVG(ClientSatisfactionScore), 2) AS AvgSatisfaction
 FROM projects
