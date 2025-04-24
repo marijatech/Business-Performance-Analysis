@@ -47,7 +47,7 @@ The dataset includes historical and active project data with the following field
 ---
 
 ### 3. **Are some project statuses taking significantly longer?**
-- **Insight:** In Progress and Completed projects average 913 days, while At Risk projects show slight deviation.
+- **Insight:** In Progress and Completed projects average 914 days, while At Risk projects show slight deviation.
 - ✅ **Recommendation:** Improve planning for early-stage projects and review At Risk handling procedures.
 
 ---
@@ -62,7 +62,8 @@ The dataset includes historical and active project data with the following field
 - **Insight:** Balanced project count across departments, with slight revenue variation.
 - ✅ **Recommendation:** Maintain resource allocation, with slight revenue optimization strategies per team.
 
----
+### 6. **How many projects are in risk?**
+- **Insight:** 33% of projects are flagged "At Risk" — which may indicate either data simulation or overly sensitive classification criteria
 
 ## 🛠 Tools & Techniques Used
 
