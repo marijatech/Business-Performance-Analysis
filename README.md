@@ -78,7 +78,7 @@ The dataset includes historical and active project data with the following field
 
 _👉 Final version of the interactive dashboard (dashboard/dashboard-preview.png)_
 
-![Dashboard Preview](dashboard/dashboard-preview.png)
+
 
 ---
 
