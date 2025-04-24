@@ -63,7 +63,7 @@ The dataset includes historical and active project data with the following field
 - ✅ **Recommendation:** Maintain resource allocation, with slight revenue optimization strategies per team.
 
 ### 6. **How many projects are in risk?**
-- **Insight:** 33% of projects are flagged "At Risk" — which may indicate either data simulation or overly sensitive classification criteria
+- **Insight:** 33% of projects are flagged "At Risk" — which may indicate overly sensitive classification criteria
 
 ## 🛠 Tools & Techniques Used
 
